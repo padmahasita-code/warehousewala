@@ -1,10 +1,10 @@
 # warehousewala
 # https://smart-warehouse-lvku.bolt.host 
+
 # Smart Warehouse
 **Smart Warehouse** is a modern web-based warehouse management application designed to simplify **inventory tracking and order fulfillment** through a clean and intuitive interface.
 
 ##  Project Highlights
-
 *  Smart inventory management
 *  Order fulfillment workflow
 *  Simple and modern dashboard
